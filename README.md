@@ -1,4 +1,4 @@
-This zip contains the following files: 
+This repository contains the following files: 
 
 Code for data collection and processing: 
 - Aphantasia.ipynb
@@ -27,4 +27,4 @@ Please note the following:
 
 1. Reddit data retrieved through the Arctic Shift API may vary across runs due to changes in the underlying dataset and occasional API timeouts. Therefore, the number of posts/comments obtained when rerunning the scripts may differ from the numbers reported in the report. The report analysed the posts and comments contained in the DOCX files included in this zip folder. 
 
-2. The supplementary dataset involved manual selection after the keyword-based retrieval (101 posts → 16 posts). The final supplementary dataset used for analysis therefore cannot be reproduced solely from the automated pipeline without applying the same manual selection. Supplementary Meditation Posts Cleaned Manual.csv is the file after manual selection. 
+2. The supplementary dataset involved manual selection after the keyword-based retrieval (101 posts → 16 posts). The final supplementary dataset used for analysis therefore cannot be reproduced solely from the automated pipeline without applying the same manual selection. Supplementary Meditation Posts Cleaned Manual.csv contains the 16 posts retained after manual selection. 
