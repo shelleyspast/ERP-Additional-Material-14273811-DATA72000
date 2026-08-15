@@ -1,8 +1,8 @@
 This repository contains the following files: 
 
 Post Corpus Used for Filtering Primary & Supplementary Post Sets: 
- - Aphantasia.csv
- - Meditation.csv
+ - Aphantasia Posts.csv
+ - Meditation Posts.csv
 
 Code for data collection and processing: 
 - Aphantasia.ipynb
