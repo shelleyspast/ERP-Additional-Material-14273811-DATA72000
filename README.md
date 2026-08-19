@@ -14,7 +14,7 @@ Primary Pipeline Files:
 Supplementary Pipeline Final Files: 
 - Supplementary_Posts_Meditation.docx
 - Supplementary_Comments_Meditation.docx
-- Supplementary Meditation Posts Cleaned Manual.csv
+- Supplementary Meditation Posts Cleaned.csv
 
 Newly Added Pipeline Final Files: 
 - Newly_Added_Posts_Meditation.docx
@@ -33,6 +33,6 @@ Please note the following:
 
 1. Reddit data retrieved through the Arctic Shift API may vary across runs due to changes in the underlying dataset and occasional API timeouts. Therefore, the number of posts/comments obtained when rerunning the scripts may differ from the numbers reported in the report. The report analysed the posts and comments contained in the DOCX files included in this repository. 
 
-2. The supplementary dataset involved manual selection after the keyword-based retrieval (101 posts → 16 posts). The final supplementary dataset used for analysis therefore cannot be reproduced solely from the automated pipeline without applying the same manual selection. Supplementary Meditation Posts Cleaned Manual.csv contains the 16 posts retained after manual selection. 
+2. The supplementary dataset involved manual selection after the keyword-based retrieval (101 posts → 16 posts). The final supplementary dataset used for analysis therefore cannot be reproduced solely from the automated pipeline without applying the same manual selection. Supplementary Meditation Posts Cleaned.csv contains the 16 posts retained after manual selection. 
 
 3. The original data collection script included r/Mindfulness as a candidate subreddit, but no relevant posts were retrieved (0 posts). It was therefore excluded from further analysis. 
